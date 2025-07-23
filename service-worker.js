@@ -3,6 +3,7 @@ event.waitUntil(
 caches.open('mi-pwa-cache').then(cache => {
 return cache.addAll([
 '/',
+'index.html',
 'estudiante.html',
 'ingeniero.html',
 'gamer.html',
