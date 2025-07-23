@@ -1,0 +1,31 @@
+{
+"name": "GAMA App",
+"short_name": "GAMA App",
+"start_url": "index.html",
+"display": "standalone",
+"background_color":
+"#000000",
+"theme_color": "#00d6ee",
+"icons": [
+    {
+"src": "looney-tunes-cartoons_3tah.jpg",
+"sizes": "192x192",
+"type": "image/png"
+},
+{
+"src": "images.jpg",
+"sizes": "192x192",
+"type": "image/png"
+},
+{
+"src": "07-BLOG-ing-sistemas-1.jpg.jpg",
+"sizes": "512x512",
+"type": "image/png"
+},
+{
+ "src": "hq720.jpg",
+"sizes": "512x512",
+"type": "image/png"   
+}
+]
+}
